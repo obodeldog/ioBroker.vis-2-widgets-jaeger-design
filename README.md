@@ -6,6 +6,66 @@
 
 [![NPM](https://nodei.co/npm/iobroker.vis-2-widgets-jaeger-design.png?downloads=true)](https://nodei.co/npm/iobroker.vis-2-widgets-jaeger-design/)
 
+### English:
+
+## ioBroker.vis-2-widgets-jaeger-design Adapter
+
+With the new visualization of the `ioBroker.vis-2-widgets-jaeger-design` adapter, anyone can easily and simply create a beautiful and user-friendly interface for their Smart Home in ioBroker. Here's a brief guide to get you started.
+
+### Getting Started
+
+1. **Install the Adapter**:
+   - Open your ioBroker admin UI.
+   - Go to the "Adapters" section.
+   - Search for `ioBroker.vis-2-widgets-jaeger-design`.
+   - Click on the install button to add the adapter to your system.
+
+2. **Using the Adapter in VIS 2**:
+   - After installation, open the VIS 2 editor.
+   - You will find new widgets associated with the `jaeger-design` adapter in the widget library.
+   - Drag and drop these widgets as needed to create your desired dashboard interface.
+
+### Learning Resources
+
+To assist you in using these new features, we have compiled a series of YouTube videos. The videos are divided into:
+1. **Demonstrations**: Showcasing what is possible with the adapter.
+2. **Tutorials**: Step-by-step guides on how to use the adapter.
+
+The video list is continuously updated, so make sure to check back for new content. 
+
+[Link zur YouTube-Playlist](https://www.youtube.com/playlist?list=PLddhldeLVrtl5Bhj6AAbkLabuIuyV0bVe)
+
+### Deutsch:
+
+## ioBroker.vis-2-widgets-jaeger-design Adapter
+
+Mit der neuen Visualisierung des `ioBroker.vis-2-widgets-jaeger-design` Adapters, kann jeder einfach und unkompliziert eine schön aussehende Oberfläche mit einer hohen Benutzerfreundlichkeit für sein Smart Home in ioBroker umsetzen. Hier ist eine kurze Anleitung, um loszulegen.
+
+### Erste Schritte
+
+1. **Adapter installieren**:
+   - Öffnen Sie Ihr ioBroker-Admin-UI.
+   - Gehen Sie zum Bereich "Adapter".
+   - Suchen Sie nach `ioBroker.vis-2-widgets-jaeger-design`.
+   - Klicken Sie auf die Installationsschaltfläche, um den Adapter in Ihrem System hinzuzufügen.
+
+2. **Den Adapter in VIS 2 verwenden**:
+   - Nach der Installation öffnen Sie den VIS 2-Editor.
+   - In der Widget-Bibliothek finden Sie die neuen Widgets des `jaeger-design` Adapters.
+   - Ziehen Sie diese Widgets nach Bedarf in Ihre Oberfläche, um Ihr gewünschtes Dashboard zu erstellen.
+
+### Lernressourcen
+
+Um Ihnen die Nutzung der neuen Funktionen zu erleichtern, haben wir eine Reihe von YouTube-Videos zusammengestellt. Die Videos sind unterteilt in:
+1. **Demonstrationen**: Zeigt, was mit dem Adapter möglich ist.
+2. **Tutorials**: Schritt-für-Schritt-Anleitungen zur Verwendung des Adapters.
+
+Die Videoliste wird kontinuierlich erweitert, schauen Sie daher regelmäßig vorbei, um neue Inhalte zu entdecken.
+
+[Link zur YouTube-Playlist](https://www.youtube.com/playlist?list=PLddhldeLVrtl5Bhj6AAbkLabuIuyV0bVe)
+
+
+
 ![youtube](img/youtube.png)
 
 You can find the video how to use the widgets [here](https://www.youtube.com/watch?v=4bctUvfpPuQ) (in german).
